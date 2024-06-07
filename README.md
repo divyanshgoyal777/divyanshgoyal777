@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @divyanshgoyal777!
+# 👋 Hi, I’m Divyansh Goyal!
 
 - 👀 **Interests:** Web development and programming.
 - 🌱 **Currently Mastering:** Web development and various programming languages.
@@ -6,9 +6,9 @@
 - 📫 **Contact Me:** 
   - Email: [777divyanshgoyal@gmail.com](mailto:777divyanshgoyal@gmail.com)
   - LinkedIn: [linkedin.com/in/divyanshgoyal777](https://www.linkedin.com/in/divyanshgoyal777)
+- 🌐 **Portfolio:** [portfolioofdivyansh.netlify.app](https://portfolioofdivyansh.netlify.app/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love coding and gaming!
-- 🌐 **Portfolio:** [portfolioofdivyansh.netlify.app](https://portfolioofdivyansh.netlify.app/)
 
 <!---
 divyanshgoyal777/divyanshgoyal777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
