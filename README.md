@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Divyansh Goyal!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshgoyal777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshgoyal777/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify&logoColor=white)](https://portfolioofdivyansh.netlify.app/)
 
 ---
@@ -49,6 +49,6 @@
 </div>
 
 <!---
-divyanshgoyal777/divyanshgoyal777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+divyanshgoyal777/divyanshgoyal777 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
