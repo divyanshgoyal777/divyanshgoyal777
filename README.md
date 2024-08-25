@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Divyansh Goyal!
 
-[![GitHub followers](https://img.shields.io/github/followers/divyanshgoyal777?label=Follow&style=social)](https://github.com/divyanshgoyal777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshgoyal777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify&logoColor=white)](https://portfolioofdivyansh.netlify.app/)
 
