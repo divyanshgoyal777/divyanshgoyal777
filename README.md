@@ -36,9 +36,8 @@
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### 📊 **GitHub Stats**
+### 📊 **Top Languages**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshgoyal777&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgoyal777&layout=compact&theme=radical)
 
 ---
