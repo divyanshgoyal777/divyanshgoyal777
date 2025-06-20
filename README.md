@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)  
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Turbo C++](https://img.shields.io/badge/-Turbo%20C++-FF6C37?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/-Code--Blocks-0E90D2?style=for-the-badge&logo=codeblocks&logoColor=white)
 
