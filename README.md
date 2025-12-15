@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/divyanshgoyal777/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolioofdivyansh.netlify.app/">
+  <a href="https://portfolioofdivyansh.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:777divyanshgoyal@gmail.com">
@@ -23,7 +23,7 @@
 - 👀 **Interests:** Web development and programming  
 - 🌱 **Currently Mastering:** Full-Stack Web Development & Competitive Programming  
 - 💞️ **Looking to Collaborate On:** Innovative web projects, open-source contributions, and hackathons  
-- 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify&logoColor=white)](https://portfolioofdivyansh.netlify.app/)  
+- 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify&logoColor=white)](https://portfolioofdivyansh.vercel.app/)  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I love coding and gaming!
 
