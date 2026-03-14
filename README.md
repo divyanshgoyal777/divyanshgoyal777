@@ -25,7 +25,7 @@
 - 💞️ **Looking to Collaborate On:** Innovative web projects, open-source contributions, and hackathons  
 - 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify&logoColor=white)](https://portfolioofdivyansh.vercel.app/)  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** I love coding and gaming!
+- ⚡ **Fun Fact:** I love coding and watching anime!
 
 ---
 
