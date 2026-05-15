@@ -86,13 +86,6 @@
 
 ---
 
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgoyal777&layout=compact&theme=radical" />
-</p>
-
----
-
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl6NXc3NDRvY2R3dTllNnlmZzd6YndhbWloM2p2dGU4cndta3dyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="500" />
   <h3>✨ Thanks for visiting my profile! ✨</h3>
